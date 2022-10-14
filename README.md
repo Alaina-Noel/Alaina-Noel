@@ -13,7 +13,7 @@ Hi there, I'm **Alaina Kneiling**, a former Mathematics educator now Backend Pro
 - 👩🏾‍💻Writing a diary on API consumption & creation [The API Diaries](https://gist.github.com/Alaina-Noel/e147fe2b06fa3a782f5d4534c0a8db14)
 - 📚 Making [flashcards](https://quizlet.com/732337969/mod-3-week-1-flash-cards) to help myself & others retain what we am learning at Turing.
 - ✅ Finishing [a project](https://github.com/Alaina-Noel/viewing_party_lite) that consumes an API.
-- 🤔 Brainstorming blog topics for my [medium page](https://medium.com/me/stories/public) that consumes an API.
+- 🤔 Brainstorming blog topics for my [medium page](https://medium.com/me/stories/public).
 - 📫 Please email via alaina.noel.8@gmail.com to reach me.
 
 ![Alaina's github stats](https://github-readme-stats.vercel.app/api?username=Alaina-Noel&show_icons=true&hide_border=true)
