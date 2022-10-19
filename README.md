@@ -1,6 +1,6 @@
 ### Hello World, I'm Alaina! 
 
-Hi there, I'm **Alaina Kneiling**, a former Mathematics educator now Backend Programmer. 
+ I'm **Alaina Kneiling**, a former Mathematics Educator now Backend Programmer. 
 
 **When I'm not coding I am**
 - 📝 Writing
