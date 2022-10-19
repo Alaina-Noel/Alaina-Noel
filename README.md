@@ -14,7 +14,7 @@
 - 📚 Making [flashcards](https://quizlet.com/735142267/mod-3-week-2-flash-cards/) to help myself & others retain what we am learning at Turing.
 - ✅ Finishing [a project](https://github.com/Alaina-Noel/viewing_party_lite) that consumes an API.
 - 🤔 Brainstorming blog topics for my [medium page](https://medium.com/@alaina.noel.8). (Let me be your ghost writer!)
-- 📫 Please email via alaina.noel.8@gmail.com to say hi. Seriously. I love meeting people & chit chatting about whatever. 
+- 📫 Please email via alaina.noel.8@gmail.com to say hi. Seriously. I love meeting people. 
 
 ![Alaina's github stats](https://github-readme-stats.vercel.app/api?username=Alaina-Noel&show_icons=true&hide_border=true)
 <br>
