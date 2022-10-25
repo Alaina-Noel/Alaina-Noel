@@ -1,4 +1,4 @@
-### Hello World, I'm Alaina! 
+## Hello World, I'm Alaina! 
 
  I'm **Alaina Kneiling**, a former Mathematics Educator now Backend Programmer. 
 
@@ -12,7 +12,7 @@
 **What I am currently up to:**
 - 👩🏾‍💻Writing a diary on API consumption & creation [The API Diaries](https://gist.github.com/Alaina-Noel/e147fe2b06fa3a782f5d4534c0a8db14)
 - 📚 Making [flashcards](https://quizlet.com/735142267/mod-3-week-2-flash-cards/) to help myself & others retain what we am learning at Turing.
-- ✅ Finishing [a project](https://github.com/Alaina-Noel/viewing_party_lite) that consumes an API.
+- ✅ Refactoring [a project](https://github.com/Alaina-Noel/viewing_party_lite) that consumes an API.
 - 🤔 Brainstorming blog topics for my [medium page](https://medium.com/@alaina.noel.8). (Let me be your ghost writer!)
 - 📫 Please email via alaina.noel.8@gmail.com to say hi. Seriously. I love meeting people. 
 
