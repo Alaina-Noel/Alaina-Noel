@@ -10,7 +10,7 @@
   <img align="right" alt="GIF" src="https://media3.giphy.com/media/d3mlE7uhX8KFgEmY/200w.webp?cid=ecf05e47io3brm1x8x3e3u2kvb3vb66hi2dr42buz34302mm&rid=200w.webp&ct=g" />
 
 **What I am currently up to:**
-- 👩🏾‍💻Writing a diary on API consumption & creation [The API Diaries](https://gist.github.com/Alaina-Noel/e147fe2b06fa3a782f5d4534c0a8db14)
+- 👩🏾‍💻Writing a diary on my [JavaScript & TypeScript](https://gist.github.com/Alaina-Noel/4d2934156fbcb5fddaabd705846ddc18) learning journey.
 - 📚 Making [flashcards](https://quizlet.com/735142267/mod-3-week-2-flash-cards/) to help myself & others retain what we am learning at Turing.
 - ✅ Making [an API](https://github.com/Alaina-Noel/lunch_and_learn) that consumes multiple APIs.
 - 🤔 Brainstorming blog topics for my [medium page](https://medium.com/@alaina.noel.8).
