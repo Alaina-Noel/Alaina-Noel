@@ -1,6 +1,6 @@
 ## Hello World, I'm Alaina! 
 
- I'm **Alaina Kneiling**, a former Mathematics Educator now Software Engineer. 
+ I'm **Alaina Kneiling**, a former Mathematics Educator now Full Stack Software Engineer. 
 
 **When I'm not coding I am**
 - 📝 Writing
