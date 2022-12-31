@@ -16,7 +16,7 @@
 - 🤔 Writing as much as I can on my [medium page](https://medium.com/@alaina.noel.8).
 - 📬[Ping me on Linkedin](https://www.linkedin.com/in/alaina-noel/). I love to chit chat!
 
-![Alaina's github stats](https://github-readme-stats.vercel.app/api?username=Alaina-Noel&show_icons=true&hide_border=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alaina-Noel&theme=dracula)
+![Alaina's github stats](https://github-readme-stats.vercel.app/api?username=Alaina-Noel&show_icons=true&hide_border=true&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alaina-Noel&theme=dark)
 <br>
 
